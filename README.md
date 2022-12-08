@@ -1,5 +1,13 @@
 # telegram-dialogs-analysis-v2
+Analysis of telegram messages.
 
+Analysis include:
+* telegram activity
+* most common words
+* most popular reaction
+* sentiment analysis
+
+The result of full analysis can be read in 3_eda_v2.pdf
 
 ### Requirements
 Python 3.8.13
